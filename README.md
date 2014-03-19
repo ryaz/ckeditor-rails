@@ -1,6 +1,7 @@
 # [CKEditor](http://ckeditor.com/) with [oembed](https://github.com/starfishmod/jquery-oembed-all) (media) plugin.
 
 Originally forked from https://github.com/tsechingho/ckeditor-rails
+
 Media (oembed) plugin for CKEditor https://github.com/starfishmod/jquery-oembed-all for embedding videos.
 
 ### Currently Supported Sites by oembed plugin:
